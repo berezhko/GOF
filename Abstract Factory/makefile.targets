@@ -1,0 +1,2 @@
+main: $(OBJS) $(USER_OBJS)
+	g++ ./main.o -o ./main
